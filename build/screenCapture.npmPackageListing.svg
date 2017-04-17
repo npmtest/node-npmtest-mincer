@@ -1,206 +1,206 @@
 <svg height="3246" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="3246" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-17 08:21:32 +0000   765035 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-17 08:21:32 +0000    11294 bytes  HISTORY.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-17 08:21:32 +0000     1079 bytes  LICENSE</tspan>
-<tspan x="10" y="74">  3.  2017-04-17 08:21:32 +0000     2252 bytes  Makefile</tspan>
-<tspan x="10" y="90">  4.  2017-04-17 08:21:32 +0000    15346 bytes  README.md</tspan>
-<tspan x="10" y="106">  5.  2017-04-17 08:21:32 +0000     2538 bytes  bin/mincer.js</tspan>
-<tspan x="10" y="122">  6.  2017-04-17 08:21:32 +0000      816 bytes  examples/README.md</tspan>
-<tspan x="10" y="138">  7.  2017-04-17 08:21:32 +0000      117 bytes  examples/assets/images/stripes.png</tspan>
-<tspan x="10" y="154">  8.  2017-04-17 08:21:32 +0000      239 bytes  examples/assets/javascripts/app.js.coffee</tspan>
-<tspan x="10" y="170">  9.  2017-04-17 08:21:32 +0000      128 bytes  examples/assets/javascripts/templates/foobar.jst\</tspan>
+<tspan x="10" y="26">  0.  2017-04-17 08:22:37 +0000   765035 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-17 08:22:37 +0000    11294 bytes  HISTORY.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-17 08:22:37 +0000     1079 bytes  LICENSE</tspan>
+<tspan x="10" y="74">  3.  2017-04-17 08:22:37 +0000     2252 bytes  Makefile</tspan>
+<tspan x="10" y="90">  4.  2017-04-17 08:22:37 +0000    15346 bytes  README.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-17 08:22:37 +0000     2538 bytes  bin/mincer.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-17 08:22:37 +0000      816 bytes  examples/README.md</tspan>
+<tspan x="10" y="138">  7.  2017-04-17 08:22:37 +0000      117 bytes  examples/assets/images/stripes.png</tspan>
+<tspan x="10" y="154">  8.  2017-04-17 08:22:37 +0000      239 bytes  examples/assets/javascripts/app.js.coffee</tspan>
+<tspan x="10" y="170">  9.  2017-04-17 08:22:37 +0000      128 bytes  examples/assets/javascripts/templates/foobar.jst\</tspan>
 <tspan x="10" y="186">.jade</tspan>
-<tspan x="10" y="202"> 10.  2017-04-17 08:21:32 +0000       73 bytes  examples/assets/stylesheets/_helper.scss</tspan>
-<tspan x="10" y="218"> 11.  2017-04-17 08:21:32 +0000       36 bytes  examples/assets/stylesheets/_helper_stylus.styl</tspan>
-<tspan x="10" y="234"> 12.  2017-04-17 08:21:32 +0000      130 bytes  examples/assets/stylesheets/alt.css.scss</tspan>
-<tspan x="10" y="250"> 13.  2017-04-17 08:21:32 +0000      181 bytes  examples/assets/stylesheets/app.css.ejs</tspan>
-<tspan x="10" y="266"> 14.  2017-04-17 08:21:32 +0000       77 bytes  examples/assets/stylesheets/stylus.css.styl</tspan>
-<tspan x="10" y="282"> 15.  2017-04-17 08:21:32 +0000     2727 bytes  examples/environment.js</tspan>
-<tspan x="10" y="298"> 16.  2017-04-17 08:21:32 +0000      856 bytes  examples/manifest.js</tspan>
-<tspan x="10" y="314"> 17.  2017-04-17 08:21:32 +0000     2761 bytes  examples/server.js</tspan>
-<tspan x="10" y="330"> 18.  2017-04-17 08:21:32 +0000     4789 bytes  examples/vendor/bootstrap/js/affix.js</tspan>
-<tspan x="10" y="346"> 19.  2017-04-17 08:21:32 +0000     2260 bytes  examples/vendor/bootstrap/js/alert.js</tspan>
-<tspan x="10" y="362"> 20.  2017-04-17 08:21:32 +0000     3274 bytes  examples/vendor/bootstrap/js/button.js</tspan>
-<tspan x="10" y="378"> 21.  2017-04-17 08:21:32 +0000     7121 bytes  examples/vendor/bootstrap/js/carousel.js</tspan>
-<tspan x="10" y="394"> 22.  2017-04-17 08:21:32 +0000     5979 bytes  examples/vendor/bootstrap/js/collapse.js</tspan>
-<tspan x="10" y="410"> 23.  2017-04-17 08:21:32 +0000     4696 bytes  examples/vendor/bootstrap/js/dropdown.js</tspan>
-<tspan x="10" y="426"> 24.  2017-04-17 08:21:32 +0000     9343 bytes  examples/vendor/bootstrap/js/modal.js</tspan>
-<tspan x="10" y="442"> 25.  2017-04-17 08:21:32 +0000     3278 bytes  examples/vendor/bootstrap/js/popover.js</tspan>
-<tspan x="10" y="458"> 26.  2017-04-17 08:21:32 +0000     4697 bytes  examples/vendor/bootstrap/js/scrollspy.js</tspan>
-<tspan x="10" y="474"> 27.  2017-04-17 08:21:32 +0000     3789 bytes  examples/vendor/bootstrap/js/tab.js</tspan>
-<tspan x="10" y="490"> 28.  2017-04-17 08:21:32 +0000    15103 bytes  examples/vendor/bootstrap/js/tooltip.js</tspan>
-<tspan x="10" y="506"> 29.  2017-04-17 08:21:32 +0000     1831 bytes  examples/vendor/bootstrap/js/transition.js</tspan>
-<tspan x="10" y="522"> 30.  2017-04-17 08:21:32 +0000     1522 bytes  examples/vendor/bootstrap/less/alerts.less</tspan>
-<tspan x="10" y="538"> 31.  2017-04-17 08:21:32 +0000     1183 bytes  examples/vendor/bootstrap/less/badges.less</tspan>
-<tspan x="10" y="554"> 32.  2017-04-17 08:21:32 +0000     1121 bytes  examples/vendor/bootstrap/less/bootstrap.less</tspan>
-<tspan x="10" y="570"> 33.  2017-04-17 08:21:32 +0000      594 bytes  examples/vendor/bootstrap/less/breadcrumbs.less</tspan>
-<tspan x="10" y="586"> 34.  2017-04-17 08:21:32 +0000     5659 bytes  examples/vendor/bootstrap/less/button-groups.les\</tspan>
+<tspan x="10" y="202"> 10.  2017-04-17 08:22:37 +0000       73 bytes  examples/assets/stylesheets/_helper.scss</tspan>
+<tspan x="10" y="218"> 11.  2017-04-17 08:22:37 +0000       36 bytes  examples/assets/stylesheets/_helper_stylus.styl</tspan>
+<tspan x="10" y="234"> 12.  2017-04-17 08:22:37 +0000      130 bytes  examples/assets/stylesheets/alt.css.scss</tspan>
+<tspan x="10" y="250"> 13.  2017-04-17 08:22:37 +0000      181 bytes  examples/assets/stylesheets/app.css.ejs</tspan>
+<tspan x="10" y="266"> 14.  2017-04-17 08:22:37 +0000       77 bytes  examples/assets/stylesheets/stylus.css.styl</tspan>
+<tspan x="10" y="282"> 15.  2017-04-17 08:22:37 +0000     2727 bytes  examples/environment.js</tspan>
+<tspan x="10" y="298"> 16.  2017-04-17 08:22:37 +0000      856 bytes  examples/manifest.js</tspan>
+<tspan x="10" y="314"> 17.  2017-04-17 08:22:37 +0000     2761 bytes  examples/server.js</tspan>
+<tspan x="10" y="330"> 18.  2017-04-17 08:22:37 +0000     4789 bytes  examples/vendor/bootstrap/js/affix.js</tspan>
+<tspan x="10" y="346"> 19.  2017-04-17 08:22:37 +0000     2260 bytes  examples/vendor/bootstrap/js/alert.js</tspan>
+<tspan x="10" y="362"> 20.  2017-04-17 08:22:37 +0000     3274 bytes  examples/vendor/bootstrap/js/button.js</tspan>
+<tspan x="10" y="378"> 21.  2017-04-17 08:22:37 +0000     7121 bytes  examples/vendor/bootstrap/js/carousel.js</tspan>
+<tspan x="10" y="394"> 22.  2017-04-17 08:22:37 +0000     5979 bytes  examples/vendor/bootstrap/js/collapse.js</tspan>
+<tspan x="10" y="410"> 23.  2017-04-17 08:22:37 +0000     4696 bytes  examples/vendor/bootstrap/js/dropdown.js</tspan>
+<tspan x="10" y="426"> 24.  2017-04-17 08:22:37 +0000     9343 bytes  examples/vendor/bootstrap/js/modal.js</tspan>
+<tspan x="10" y="442"> 25.  2017-04-17 08:22:37 +0000     3278 bytes  examples/vendor/bootstrap/js/popover.js</tspan>
+<tspan x="10" y="458"> 26.  2017-04-17 08:22:37 +0000     4697 bytes  examples/vendor/bootstrap/js/scrollspy.js</tspan>
+<tspan x="10" y="474"> 27.  2017-04-17 08:22:37 +0000     3789 bytes  examples/vendor/bootstrap/js/tab.js</tspan>
+<tspan x="10" y="490"> 28.  2017-04-17 08:22:37 +0000    15103 bytes  examples/vendor/bootstrap/js/tooltip.js</tspan>
+<tspan x="10" y="506"> 29.  2017-04-17 08:22:37 +0000     1831 bytes  examples/vendor/bootstrap/js/transition.js</tspan>
+<tspan x="10" y="522"> 30.  2017-04-17 08:22:37 +0000     1522 bytes  examples/vendor/bootstrap/less/alerts.less</tspan>
+<tspan x="10" y="538"> 31.  2017-04-17 08:22:37 +0000     1183 bytes  examples/vendor/bootstrap/less/badges.less</tspan>
+<tspan x="10" y="554"> 32.  2017-04-17 08:22:37 +0000     1121 bytes  examples/vendor/bootstrap/less/bootstrap.less</tspan>
+<tspan x="10" y="570"> 33.  2017-04-17 08:22:37 +0000      594 bytes  examples/vendor/bootstrap/less/breadcrumbs.less</tspan>
+<tspan x="10" y="586"> 34.  2017-04-17 08:22:37 +0000     5659 bytes  examples/vendor/bootstrap/less/button-groups.les\</tspan>
 <tspan x="10" y="602">s</tspan>
-<tspan x="10" y="618"> 35.  2017-04-17 08:21:32 +0000     3565 bytes  examples/vendor/bootstrap/less/buttons.less</tspan>
-<tspan x="10" y="634"> 36.  2017-04-17 08:21:32 +0000     5405 bytes  examples/vendor/bootstrap/less/carousel.less</tspan>
-<tspan x="10" y="650"> 37.  2017-04-17 08:21:32 +0000      764 bytes  examples/vendor/bootstrap/less/close.less</tspan>
-<tspan x="10" y="666"> 38.  2017-04-17 08:21:32 +0000     1401 bytes  examples/vendor/bootstrap/less/code.less</tspan>
-<tspan x="10" y="682"> 39.  2017-04-17 08:21:32 +0000      709 bytes  examples/vendor/bootstrap/less/component-animati\</tspan>
+<tspan x="10" y="618"> 35.  2017-04-17 08:22:37 +0000     3565 bytes  examples/vendor/bootstrap/less/buttons.less</tspan>
+<tspan x="10" y="634"> 36.  2017-04-17 08:22:37 +0000     5405 bytes  examples/vendor/bootstrap/less/carousel.less</tspan>
+<tspan x="10" y="650"> 37.  2017-04-17 08:22:37 +0000      764 bytes  examples/vendor/bootstrap/less/close.less</tspan>
+<tspan x="10" y="666"> 38.  2017-04-17 08:22:37 +0000     1401 bytes  examples/vendor/bootstrap/less/code.less</tspan>
+<tspan x="10" y="682"> 39.  2017-04-17 08:22:37 +0000      709 bytes  examples/vendor/bootstrap/less/component-animati\</tspan>
 <tspan x="10" y="698">ons.less</tspan>
-<tspan x="10" y="714"> 40.  2017-04-17 08:21:32 +0000     4763 bytes  examples/vendor/bootstrap/less/dropdowns.less</tspan>
-<tspan x="10" y="730"> 41.  2017-04-17 08:21:32 +0000    14670 bytes  examples/vendor/bootstrap/less/forms.less</tspan>
-<tspan x="10" y="746"> 42.  2017-04-17 08:21:32 +0000    19527 bytes  examples/vendor/bootstrap/less/glyphicons.less</tspan>
-<tspan x="10" y="762"> 43.  2017-04-17 08:21:32 +0000     1387 bytes  examples/vendor/bootstrap/less/grid.less</tspan>
-<tspan x="10" y="778"> 44.  2017-04-17 08:21:32 +0000     4215 bytes  examples/vendor/bootstrap/less/input-groups.less</tspan>
-<tspan x="10" y="794"> 45.  2017-04-17 08:21:32 +0000      986 bytes  examples/vendor/bootstrap/less/jumbotron.less</tspan>
-<tspan x="10" y="810"> 46.  2017-04-17 08:21:32 +0000     1079 bytes  examples/vendor/bootstrap/less/labels.less</tspan>
-<tspan x="10" y="826"> 47.  2017-04-17 08:21:32 +0000     3022 bytes  examples/vendor/bootstrap/less/list-group.less</tspan>
-<tspan x="10" y="842"> 48.  2017-04-17 08:21:32 +0000      780 bytes  examples/vendor/bootstrap/less/media.less</tspan>
-<tspan x="10" y="858"> 49.  2017-04-17 08:21:32 +0000     1102 bytes  examples/vendor/bootstrap/less/mixins.less</tspan>
-<tspan x="10" y="874"> 50.  2017-04-17 08:21:32 +0000      257 bytes  examples/vendor/bootstrap/less/mixins/alerts.les\</tspan>
+<tspan x="10" y="714"> 40.  2017-04-17 08:22:37 +0000     4763 bytes  examples/vendor/bootstrap/less/dropdowns.less</tspan>
+<tspan x="10" y="730"> 41.  2017-04-17 08:22:37 +0000    14670 bytes  examples/vendor/bootstrap/less/forms.less</tspan>
+<tspan x="10" y="746"> 42.  2017-04-17 08:22:37 +0000    19527 bytes  examples/vendor/bootstrap/less/glyphicons.less</tspan>
+<tspan x="10" y="762"> 43.  2017-04-17 08:22:37 +0000     1387 bytes  examples/vendor/bootstrap/less/grid.less</tspan>
+<tspan x="10" y="778"> 44.  2017-04-17 08:22:37 +0000     4215 bytes  examples/vendor/bootstrap/less/input-groups.less</tspan>
+<tspan x="10" y="794"> 45.  2017-04-17 08:22:37 +0000      986 bytes  examples/vendor/bootstrap/less/jumbotron.less</tspan>
+<tspan x="10" y="810"> 46.  2017-04-17 08:22:37 +0000     1079 bytes  examples/vendor/bootstrap/less/labels.less</tspan>
+<tspan x="10" y="826"> 47.  2017-04-17 08:22:37 +0000     3022 bytes  examples/vendor/bootstrap/less/list-group.less</tspan>
+<tspan x="10" y="842"> 48.  2017-04-17 08:22:37 +0000      780 bytes  examples/vendor/bootstrap/less/media.less</tspan>
+<tspan x="10" y="858"> 49.  2017-04-17 08:22:37 +0000     1102 bytes  examples/vendor/bootstrap/less/mixins.less</tspan>
+<tspan x="10" y="874"> 50.  2017-04-17 08:22:37 +0000      257 bytes  examples/vendor/bootstrap/less/mixins/alerts.les\</tspan>
 <tspan x="10" y="890">s</tspan>
-<tspan x="10" y="906"> 51.  2017-04-17 08:21:32 +0000      139 bytes  examples/vendor/bootstrap/less/mixins/background\</tspan>
+<tspan x="10" y="906"> 51.  2017-04-17 08:22:37 +0000      139 bytes  examples/vendor/bootstrap/less/mixins/background\</tspan>
 <tspan x="10" y="922">-variant.less</tspan>
-<tspan x="10" y="938"> 52.  2017-04-17 08:21:32 +0000      468 bytes  examples/vendor/bootstrap/less/mixins/border-rad\</tspan>
+<tspan x="10" y="938"> 52.  2017-04-17 08:22:37 +0000      468 bytes  examples/vendor/bootstrap/less/mixins/border-rad\</tspan>
 <tspan x="10" y="954">ius.less</tspan>
-<tspan x="10" y="970"> 53.  2017-04-17 08:21:32 +0000     1080 bytes  examples/vendor/bootstrap/less/mixins/buttons.le\</tspan>
+<tspan x="10" y="970"> 53.  2017-04-17 08:22:37 +0000     1080 bytes  examples/vendor/bootstrap/less/mixins/buttons.le\</tspan>
 <tspan x="10" y="986">ss</tspan>
-<tspan x="10" y="1002"> 54.  2017-04-17 08:21:32 +0000      120 bytes  examples/vendor/bootstrap/less/mixins/center-blo\</tspan>
+<tspan x="10" y="1002"> 54.  2017-04-17 08:22:37 +0000      120 bytes  examples/vendor/bootstrap/less/mixins/center-blo\</tspan>
 <tspan x="10" y="1018">ck.less</tspan>
-<tspan x="10" y="1034"> 55.  2017-04-17 08:21:32 +0000      605 bytes  examples/vendor/bootstrap/less/mixins/clearfix.l\</tspan>
+<tspan x="10" y="1034"> 55.  2017-04-17 08:22:37 +0000      605 bytes  examples/vendor/bootstrap/less/mixins/clearfix.l\</tspan>
 <tspan x="10" y="1050">ess</tspan>
-<tspan x="10" y="1066"> 56.  2017-04-17 08:21:32 +0000     2641 bytes  examples/vendor/bootstrap/less/mixins/forms.less</tspan>
-<tspan x="10" y="1082"> 57.  2017-04-17 08:21:32 +0000     4388 bytes  examples/vendor/bootstrap/less/mixins/gradients.\</tspan>
+<tspan x="10" y="1066"> 56.  2017-04-17 08:22:37 +0000     2641 bytes  examples/vendor/bootstrap/less/mixins/forms.less</tspan>
+<tspan x="10" y="1082"> 57.  2017-04-17 08:22:37 +0000     4388 bytes  examples/vendor/bootstrap/less/mixins/gradients.\</tspan>
 <tspan x="10" y="1098">less</tspan>
-<tspan x="10" y="1114"> 58.  2017-04-17 08:21:32 +0000     2784 bytes  examples/vendor/bootstrap/less/mixins/grid-frame\</tspan>
+<tspan x="10" y="1114"> 58.  2017-04-17 08:22:37 +0000     2784 bytes  examples/vendor/bootstrap/less/mixins/grid-frame\</tspan>
 <tspan x="10" y="1130">work.less</tspan>
-<tspan x="10" y="1146"> 59.  2017-04-17 08:21:32 +0000     3094 bytes  examples/vendor/bootstrap/less/mixins/grid.less</tspan>
-<tspan x="10" y="1162"> 60.  2017-04-17 08:21:32 +0000      579 bytes  examples/vendor/bootstrap/less/mixins/hide-text.\</tspan>
+<tspan x="10" y="1146"> 59.  2017-04-17 08:22:37 +0000     3094 bytes  examples/vendor/bootstrap/less/mixins/grid.less</tspan>
+<tspan x="10" y="1162"> 60.  2017-04-17 08:22:37 +0000      579 bytes  examples/vendor/bootstrap/less/mixins/hide-text.\</tspan>
 <tspan x="10" y="1178">less</tspan>
-<tspan x="10" y="1194"> 61.  2017-04-17 08:21:32 +0000     1062 bytes  examples/vendor/bootstrap/less/mixins/image.less</tspan>
-<tspan x="10" y="1210"> 62.  2017-04-17 08:21:32 +0000      161 bytes  examples/vendor/bootstrap/less/mixins/labels.les\</tspan>
+<tspan x="10" y="1194"> 61.  2017-04-17 08:22:37 +0000     1062 bytes  examples/vendor/bootstrap/less/mixins/image.less</tspan>
+<tspan x="10" y="1210"> 62.  2017-04-17 08:22:37 +0000      161 bytes  examples/vendor/bootstrap/less/mixins/labels.les\</tspan>
 <tspan x="10" y="1226">s</tspan>
-<tspan x="10" y="1242"> 63.  2017-04-17 08:21:32 +0000      533 bytes  examples/vendor/bootstrap/less/mixins/list-group\</tspan>
+<tspan x="10" y="1242"> 63.  2017-04-17 08:22:37 +0000      533 bytes  examples/vendor/bootstrap/less/mixins/list-group\</tspan>
 <tspan x="10" y="1258">.less</tspan>
-<tspan x="10" y="1274"> 64.  2017-04-17 08:21:32 +0000      232 bytes  examples/vendor/bootstrap/less/mixins/nav-divide\</tspan>
+<tspan x="10" y="1274"> 64.  2017-04-17 08:22:37 +0000      232 bytes  examples/vendor/bootstrap/less/mixins/nav-divide\</tspan>
 <tspan x="10" y="1290">r.less</tspan>
-<tspan x="10" y="1306"> 65.  2017-04-17 08:21:32 +0000      364 bytes  examples/vendor/bootstrap/less/mixins/nav-vertic\</tspan>
+<tspan x="10" y="1306"> 65.  2017-04-17 08:22:37 +0000      364 bytes  examples/vendor/bootstrap/less/mixins/nav-vertic\</tspan>
 <tspan x="10" y="1322">al-align.less</tspan>
-<tspan x="10" y="1338"> 66.  2017-04-17 08:21:32 +0000      148 bytes  examples/vendor/bootstrap/less/mixins/opacity.le\</tspan>
+<tspan x="10" y="1338"> 66.  2017-04-17 08:22:37 +0000      148 bytes  examples/vendor/bootstrap/less/mixins/opacity.le\</tspan>
 <tspan x="10" y="1354">ss</tspan>
-<tspan x="10" y="1370"> 67.  2017-04-17 08:21:32 +0000      438 bytes  examples/vendor/bootstrap/less/mixins/pagination\</tspan>
+<tspan x="10" y="1370"> 67.  2017-04-17 08:22:37 +0000      438 bytes  examples/vendor/bootstrap/less/mixins/pagination\</tspan>
 <tspan x="10" y="1386">.less</tspan>
-<tspan x="10" y="1402"> 68.  2017-04-17 08:21:32 +0000      537 bytes  examples/vendor/bootstrap/less/mixins/panels.les\</tspan>
+<tspan x="10" y="1402"> 68.  2017-04-17 08:22:37 +0000      537 bytes  examples/vendor/bootstrap/less/mixins/panels.les\</tspan>
 <tspan x="10" y="1418">s</tspan>
-<tspan x="10" y="1434"> 69.  2017-04-17 08:21:32 +0000      191 bytes  examples/vendor/bootstrap/less/mixins/progress-b\</tspan>
+<tspan x="10" y="1434"> 69.  2017-04-17 08:22:37 +0000      191 bytes  examples/vendor/bootstrap/less/mixins/progress-b\</tspan>
 <tspan x="10" y="1450">ar.less</tspan>
-<tspan x="10" y="1466"> 70.  2017-04-17 08:21:32 +0000      248 bytes  examples/vendor/bootstrap/less/mixins/reset-filt\</tspan>
+<tspan x="10" y="1466"> 70.  2017-04-17 08:22:37 +0000      248 bytes  examples/vendor/bootstrap/less/mixins/reset-filt\</tspan>
 <tspan x="10" y="1482">er.less</tspan>
-<tspan x="10" y="1498"> 71.  2017-04-17 08:21:32 +0000      196 bytes  examples/vendor/bootstrap/less/mixins/resize.les\</tspan>
+<tspan x="10" y="1498"> 71.  2017-04-17 08:22:37 +0000      196 bytes  examples/vendor/bootstrap/less/mixins/resize.les\</tspan>
 <tspan x="10" y="1514">s</tspan>
-<tspan x="10" y="1530"> 72.  2017-04-17 08:21:32 +0000      343 bytes  examples/vendor/bootstrap/less/mixins/responsive\</tspan>
+<tspan x="10" y="1530"> 72.  2017-04-17 08:22:37 +0000      343 bytes  examples/vendor/bootstrap/less/mixins/responsive\</tspan>
 <tspan x="10" y="1546">-visibility.less</tspan>
-<tspan x="10" y="1562"> 73.  2017-04-17 08:21:32 +0000      127 bytes  examples/vendor/bootstrap/less/mixins/size.less</tspan>
-<tspan x="10" y="1578"> 74.  2017-04-17 08:21:32 +0000      159 bytes  examples/vendor/bootstrap/less/mixins/tab-focus.\</tspan>
+<tspan x="10" y="1562"> 73.  2017-04-17 08:22:37 +0000      127 bytes  examples/vendor/bootstrap/less/mixins/size.less</tspan>
+<tspan x="10" y="1578"> 74.  2017-04-17 08:22:37 +0000      159 bytes  examples/vendor/bootstrap/less/mixins/tab-focus.\</tspan>
 <tspan x="10" y="1594">less</tspan>
-<tspan x="10" y="1610"> 75.  2017-04-17 08:21:32 +0000      700 bytes  examples/vendor/bootstrap/less/mixins/table-row.\</tspan>
+<tspan x="10" y="1610"> 75.  2017-04-17 08:22:37 +0000      700 bytes  examples/vendor/bootstrap/less/mixins/table-row.\</tspan>
 <tspan x="10" y="1626">less</tspan>
-<tspan x="10" y="1642"> 76.  2017-04-17 08:21:32 +0000      116 bytes  examples/vendor/bootstrap/less/mixins/text-empha\</tspan>
+<tspan x="10" y="1642"> 76.  2017-04-17 08:22:37 +0000      116 bytes  examples/vendor/bootstrap/less/mixins/text-empha\</tspan>
 <tspan x="10" y="1658">sis.less</tspan>
-<tspan x="10" y="1674"> 77.  2017-04-17 08:21:32 +0000      162 bytes  examples/vendor/bootstrap/less/mixins/text-overf\</tspan>
+<tspan x="10" y="1674"> 77.  2017-04-17 08:22:37 +0000      162 bytes  examples/vendor/bootstrap/less/mixins/text-overf\</tspan>
 <tspan x="10" y="1690">low.less</tspan>
-<tspan x="10" y="1706"> 78.  2017-04-17 08:21:32 +0000     6650 bytes  examples/vendor/bootstrap/less/mixins/vendor-pre\</tspan>
+<tspan x="10" y="1706"> 78.  2017-04-17 08:22:37 +0000     6650 bytes  examples/vendor/bootstrap/less/mixins/vendor-pre\</tspan>
 <tspan x="10" y="1722">fixes.less</tspan>
-<tspan x="10" y="1738"> 79.  2017-04-17 08:21:32 +0000     3518 bytes  examples/vendor/bootstrap/less/modals.less</tspan>
-<tspan x="10" y="1754"> 80.  2017-04-17 08:21:32 +0000    14666 bytes  examples/vendor/bootstrap/less/navbar.less</tspan>
-<tspan x="10" y="1770"> 81.  2017-04-17 08:21:32 +0000     4979 bytes  examples/vendor/bootstrap/less/navs.less</tspan>
-<tspan x="10" y="1786"> 82.  2017-04-17 08:21:32 +0000     7650 bytes  examples/vendor/bootstrap/less/normalize.less</tspan>
-<tspan x="10" y="1802"> 83.  2017-04-17 08:21:32 +0000      861 bytes  examples/vendor/bootstrap/less/pager.less</tspan>
-<tspan x="10" y="1818"> 84.  2017-04-17 08:21:32 +0000     2001 bytes  examples/vendor/bootstrap/less/pagination.less</tspan>
-<tspan x="10" y="1834"> 85.  2017-04-17 08:21:32 +0000     6151 bytes  examples/vendor/bootstrap/less/panels.less</tspan>
-<tspan x="10" y="1850"> 86.  2017-04-17 08:21:32 +0000     3509 bytes  examples/vendor/bootstrap/less/popovers.less</tspan>
-<tspan x="10" y="1866"> 87.  2017-04-17 08:21:32 +0000     2133 bytes  examples/vendor/bootstrap/less/print.less</tspan>
-<tspan x="10" y="1882"> 88.  2017-04-17 08:21:32 +0000     1925 bytes  examples/vendor/bootstrap/less/progress-bars.les\</tspan>
+<tspan x="10" y="1738"> 79.  2017-04-17 08:22:37 +0000     3518 bytes  examples/vendor/bootstrap/less/modals.less</tspan>
+<tspan x="10" y="1754"> 80.  2017-04-17 08:22:37 +0000    14666 bytes  examples/vendor/bootstrap/less/navbar.less</tspan>
+<tspan x="10" y="1770"> 81.  2017-04-17 08:22:37 +0000     4979 bytes  examples/vendor/bootstrap/less/navs.less</tspan>
+<tspan x="10" y="1786"> 82.  2017-04-17 08:22:37 +0000     7650 bytes  examples/vendor/bootstrap/less/normalize.less</tspan>
+<tspan x="10" y="1802"> 83.  2017-04-17 08:22:37 +0000      861 bytes  examples/vendor/bootstrap/less/pager.less</tspan>
+<tspan x="10" y="1818"> 84.  2017-04-17 08:22:37 +0000     2001 bytes  examples/vendor/bootstrap/less/pagination.less</tspan>
+<tspan x="10" y="1834"> 85.  2017-04-17 08:22:37 +0000     6151 bytes  examples/vendor/bootstrap/less/panels.less</tspan>
+<tspan x="10" y="1850"> 86.  2017-04-17 08:22:37 +0000     3509 bytes  examples/vendor/bootstrap/less/popovers.less</tspan>
+<tspan x="10" y="1866"> 87.  2017-04-17 08:22:37 +0000     2133 bytes  examples/vendor/bootstrap/less/print.less</tspan>
+<tspan x="10" y="1882"> 88.  2017-04-17 08:22:37 +0000     1925 bytes  examples/vendor/bootstrap/less/progress-bars.les\</tspan>
 <tspan x="10" y="1898">s</tspan>
-<tspan x="10" y="1914"> 89.  2017-04-17 08:21:32 +0000      564 bytes  examples/vendor/bootstrap/less/responsive-embed.\</tspan>
+<tspan x="10" y="1914"> 89.  2017-04-17 08:22:37 +0000      564 bytes  examples/vendor/bootstrap/less/responsive-embed.\</tspan>
 <tspan x="10" y="1930">less</tspan>
-<tspan x="10" y="1946"> 90.  2017-04-17 08:21:32 +0000     4262 bytes  examples/vendor/bootstrap/less/responsive-utilit\</tspan>
+<tspan x="10" y="1946"> 90.  2017-04-17 08:22:37 +0000     4262 bytes  examples/vendor/bootstrap/less/responsive-utilit\</tspan>
 <tspan x="10" y="1962">ies.less</tspan>
-<tspan x="10" y="1978"> 91.  2017-04-17 08:21:32 +0000     2656 bytes  examples/vendor/bootstrap/less/scaffolding.less</tspan>
-<tspan x="10" y="1994"> 92.  2017-04-17 08:21:32 +0000     4612 bytes  examples/vendor/bootstrap/less/tables.less</tspan>
-<tspan x="10" y="2010"> 93.  2017-04-17 08:21:32 +0000     7812 bytes  examples/vendor/bootstrap/less/theme.less</tspan>
-<tspan x="10" y="2026"> 94.  2017-04-17 08:21:32 +0000      753 bytes  examples/vendor/bootstrap/less/thumbnails.less</tspan>
-<tspan x="10" y="2042"> 95.  2017-04-17 08:21:32 +0000     2960 bytes  examples/vendor/bootstrap/less/tooltip.less</tspan>
-<tspan x="10" y="2058"> 96.  2017-04-17 08:21:32 +0000     5959 bytes  examples/vendor/bootstrap/less/type.less</tspan>
-<tspan x="10" y="2074"> 97.  2017-04-17 08:21:32 +0000      780 bytes  examples/vendor/bootstrap/less/utilities.less</tspan>
-<tspan x="10" y="2090"> 98.  2017-04-17 08:21:32 +0000    26954 bytes  examples/vendor/bootstrap/less/variables.less</tspan>
-<tspan x="10" y="2106"> 99.  2017-04-17 08:21:32 +0000      527 bytes  examples/vendor/bootstrap/less/wells.less</tspan>
-<tspan x="10" y="2122">100.  2017-04-17 08:21:32 +0000   248235 bytes  examples/vendor/jquery/jquery.js</tspan>
-<tspan x="10" y="2138">101.  2017-04-17 08:21:32 +0000      265 bytes  examples/views/layout.jade</tspan>
-<tspan x="10" y="2154">102.  2017-04-17 08:21:32 +0000       58 bytes  index.js</tspan>
-<tspan x="10" y="2170">103.  2017-04-17 08:21:32 +0000     8168 bytes  lib/mincer.js</tspan>
-<tspan x="10" y="2186">104.  2017-04-17 08:21:32 +0000     6240 bytes  lib/mincer/asset_attributes.js</tspan>
-<tspan x="10" y="2202">105.  2017-04-17 08:21:32 +0000     7042 bytes  lib/mincer/assets/asset.js</tspan>
-<tspan x="10" y="2218">106.  2017-04-17 08:21:32 +0000     6131 bytes  lib/mincer/assets/bundled.js</tspan>
-<tspan x="10" y="2234">107.  2017-04-17 08:21:32 +0000     6098 bytes  lib/mincer/assets/processed.js</tspan>
-<tspan x="10" y="2250">108.  2017-04-17 08:21:32 +0000     1144 bytes  lib/mincer/assets/static.js</tspan>
-<tspan x="10" y="2266">109.  2017-04-17 08:21:32 +0000    13498 bytes  lib/mincer/base.js</tspan>
-<tspan x="10" y="2282">110.  2017-04-17 08:21:32 +0000     1780 bytes  lib/mincer/common.js</tspan>
-<tspan x="10" y="2298">111.  2017-04-17 08:21:32 +0000     1849 bytes  lib/mincer/common/hash.js</tspan>
-<tspan x="10" y="2314">112.  2017-04-17 08:21:32 +0000      979 bytes  lib/mincer/compressors/csso_compressor.js</tspan>
-<tspan x="10" y="2330">113.  2017-04-17 08:21:32 +0000     1790 bytes  lib/mincer/compressors/csswring_compressor.js</tspan>
-<tspan x="10" y="2346">114.  2017-04-17 08:21:32 +0000     2398 bytes  lib/mincer/compressors/uglify_compressor.js</tspan>
-<tspan x="10" y="2362">115.  2017-04-17 08:21:32 +0000    16267 bytes  lib/mincer/context.js</tspan>
-<tspan x="10" y="2378">116.  2017-04-17 08:21:32 +0000     2283 bytes  lib/mincer/engines/coffee_engine.js</tspan>
-<tspan x="10" y="2394">117.  2017-04-17 08:21:32 +0000     1388 bytes  lib/mincer/engines/ejs_engine.js</tspan>
-<tspan x="10" y="2410">118.  2017-04-17 08:21:32 +0000     1484 bytes  lib/mincer/engines/handlebars_engine.js</tspan>
-<tspan x="10" y="2426">119.  2017-04-17 08:21:32 +0000     1994 bytes  lib/mincer/engines/jade_engine.js</tspan>
-<tspan x="10" y="2442">120.  2017-04-17 08:21:32 +0000     1349 bytes  lib/mincer/engines/jst_engine.js</tspan>
-<tspan x="10" y="2458">121.  2017-04-17 08:21:32 +0000     4795 bytes  lib/mincer/engines/less_engine.js</tspan>
-<tspan x="10" y="2474">122.  2017-04-17 08:21:32 +0000     1788 bytes  lib/mincer/engines/pug_engine.js</tspan>
-<tspan x="10" y="2490">123.  2017-04-17 08:21:32 +0000     6779 bytes  lib/mincer/engines/sass_engine.js</tspan>
-<tspan x="10" y="2506">124.  2017-04-17 08:21:32 +0000     3864 bytes  lib/mincer/engines/stylus_engine.js</tspan>
-<tspan x="10" y="2522">125.  2017-04-17 08:21:32 +0000     4177 bytes  lib/mincer/environment.js</tspan>
-<tspan x="10" y="2538">126.  2017-04-17 08:21:32 +0000     1418 bytes  lib/mincer/file_store.js</tspan>
-<tspan x="10" y="2554">127.  2017-04-17 08:21:32 +0000     1518 bytes  lib/mincer/helpers/caching.js</tspan>
-<tspan x="10" y="2570">128.  2017-04-17 08:21:32 +0000     4201 bytes  lib/mincer/helpers/compressing.js</tspan>
-<tspan x="10" y="2586">129.  2017-04-17 08:21:32 +0000     2424 bytes  lib/mincer/helpers/configuring.js</tspan>
-<tspan x="10" y="2602">130.  2017-04-17 08:21:32 +0000     2741 bytes  lib/mincer/helpers/engines.js</tspan>
-<tspan x="10" y="2618">131.  2017-04-17 08:21:32 +0000     1484 bytes  lib/mincer/helpers/mime.js</tspan>
-<tspan x="10" y="2634">132.  2017-04-17 08:21:32 +0000     2372 bytes  lib/mincer/helpers/paths.js</tspan>
-<tspan x="10" y="2650">133.  2017-04-17 08:21:32 +0000     6752 bytes  lib/mincer/helpers/processing.js</tspan>
-<tspan x="10" y="2666">134.  2017-04-17 08:21:32 +0000     4406 bytes  lib/mincer/index.js</tspan>
-<tspan x="10" y="2682">135.  2017-04-17 08:21:32 +0000     3188 bytes  lib/mincer/logger.js</tspan>
-<tspan x="10" y="2698">136.  2017-04-17 08:21:32 +0000     7697 bytes  lib/mincer/manifest.js</tspan>
-<tspan x="10" y="2714">137.  2017-04-17 08:21:32 +0000     1764 bytes  lib/mincer/processor.js</tspan>
-<tspan x="10" y="2730">138.  2017-04-17 08:21:32 +0000     1894 bytes  lib/mincer/processors/autoprefixer.js</tspan>
-<tspan x="10" y="2746">139.  2017-04-17 08:21:32 +0000     1432 bytes  lib/mincer/processors/charset_normalizer.js</tspan>
-<tspan x="10" y="2762">140.  2017-04-17 08:21:32 +0000    11860 bytes  lib/mincer/processors/directive_processor.js</tspan>
-<tspan x="10" y="2778">141.  2017-04-17 08:21:32 +0000     3913 bytes  lib/mincer/processors/macro_processor.js</tspan>
-<tspan x="10" y="2794">142.  2017-04-17 08:21:32 +0000      973 bytes  lib/mincer/processors/safety_colons.js</tspan>
-<tspan x="10" y="2810">143.  2017-04-17 08:21:32 +0000    12813 bytes  lib/mincer/server.js</tspan>
-<tspan x="10" y="2826">144.  2017-04-17 08:21:32 +0000     2101 bytes  lib/mincer/template.js</tspan>
-<tspan x="10" y="2842">145.  2017-04-17 08:21:32 +0000       90 bytes  lib/mincer/version.js</tspan>
-<tspan x="10" y="2858">146.  2017-04-17 08:21:32 +0000     2900 bytes  package.json</tspan>
-<tspan x="10" y="2874">147.  2017-04-17 08:21:32 +0000     4526 bytes  test/engines_test.js</tspan>
-<tspan x="10" y="2890">148.  2017-04-17 08:21:32 +0000      463 bytes  test/environment.js</tspan>
-<tspan x="10" y="2906">149.  2017-04-17 08:21:32 +0000     1226 bytes  test/examples_test.js</tspan>
-<tspan x="10" y="2922">150.  2017-04-17 08:21:32 +0000      104 bytes  test/fixtures/ejs_engine/javascript.js.ejs</tspan>
-<tspan x="10" y="2938">151.  2017-04-17 08:21:32 +0000      126 bytes  test/fixtures/ejs_engine/stylesheet.css.ejs</tspan>
-<tspan x="10" y="2954">152.  2017-04-17 08:21:32 +0000    12586 bytes  test/fixtures/ixti.gif</tspan>
-<tspan x="10" y="2970">153.  2017-04-17 08:21:32 +0000       39 bytes  test/fixtures/jst_engine/ejs/template.jst.ejs</tspan>
-<tspan x="10" y="2986">154.  2017-04-17 08:21:32 +0000       10 bytes  test/fixtures/jst_engine/jade/included.jst.jade</tspan>
-<tspan x="10" y="3002">155.  2017-04-17 08:21:32 +0000       46 bytes  test/fixtures/jst_engine/jade/template.jst.jade</tspan>
-<tspan x="10" y="3018">156.  2017-04-17 08:21:32 +0000       10 bytes  test/fixtures/jst_engine/pug/included.jst.pug</tspan>
-<tspan x="10" y="3034">157.  2017-04-17 08:21:32 +0000       45 bytes  test/fixtures/jst_engine/pug/template.jst.pug</tspan>
-<tspan x="10" y="3050">158.  2017-04-17 08:21:32 +0000      143 bytes  test/fixtures/less_engine/stylesheet.css.less</tspan>
-<tspan x="10" y="3066">159.  2017-04-17 08:21:32 +0000       52 bytes  test/fixtures/pipeline/macros.js</tspan>
-<tspan x="10" y="3082">160.  2017-04-17 08:21:32 +0000       57 bytes  test/fixtures/pipeline/single_file.css.styl.ejs</tspan>
-<tspan x="10" y="3098">161.  2017-04-17 08:21:32 +0000       21 bytes  test/fixtures/sass_engine/_variables.css.scss.v1</tspan>
-<tspan x="10" y="3114">162.  2017-04-17 08:21:32 +0000       21 bytes  test/fixtures/sass_engine/_variables.css.scss.v2</tspan>
-<tspan x="10" y="3130">163.  2017-04-17 08:21:32 +0000       67 bytes  test/fixtures/sass_engine/grid.css.scss</tspan>
-<tspan x="10" y="3146">164.  2017-04-17 08:21:32 +0000      111 bytes  test/fixtures/sass_engine/helpers.css.scss</tspan>
-<tspan x="10" y="3162">165.  2017-04-17 08:21:32 +0000       64 bytes  test/fixtures/sass_engine/stylesheet.css.scss</tspan>
-<tspan x="10" y="3178">166.  2017-04-17 08:21:32 +0000       79 bytes  test/fixtures/sass_engine/with_macros.css.scss</tspan>
-<tspan x="10" y="3194">167.  2017-04-17 08:21:32 +0000      785 bytes  test/logger_test.js</tspan>
-<tspan x="10" y="3210">168.  2017-04-17 08:21:32 +0000       23 bytes  test/mocha.opts</tspan>
-<tspan x="10" y="3226">169.  2017-04-17 08:21:32 +0000      629 bytes  test/pipeline_test.js</tspan>
+<tspan x="10" y="1978"> 91.  2017-04-17 08:22:37 +0000     2656 bytes  examples/vendor/bootstrap/less/scaffolding.less</tspan>
+<tspan x="10" y="1994"> 92.  2017-04-17 08:22:37 +0000     4612 bytes  examples/vendor/bootstrap/less/tables.less</tspan>
+<tspan x="10" y="2010"> 93.  2017-04-17 08:22:37 +0000     7812 bytes  examples/vendor/bootstrap/less/theme.less</tspan>
+<tspan x="10" y="2026"> 94.  2017-04-17 08:22:37 +0000      753 bytes  examples/vendor/bootstrap/less/thumbnails.less</tspan>
+<tspan x="10" y="2042"> 95.  2017-04-17 08:22:37 +0000     2960 bytes  examples/vendor/bootstrap/less/tooltip.less</tspan>
+<tspan x="10" y="2058"> 96.  2017-04-17 08:22:37 +0000     5959 bytes  examples/vendor/bootstrap/less/type.less</tspan>
+<tspan x="10" y="2074"> 97.  2017-04-17 08:22:37 +0000      780 bytes  examples/vendor/bootstrap/less/utilities.less</tspan>
+<tspan x="10" y="2090"> 98.  2017-04-17 08:22:37 +0000    26954 bytes  examples/vendor/bootstrap/less/variables.less</tspan>
+<tspan x="10" y="2106"> 99.  2017-04-17 08:22:37 +0000      527 bytes  examples/vendor/bootstrap/less/wells.less</tspan>
+<tspan x="10" y="2122">100.  2017-04-17 08:22:37 +0000   248235 bytes  examples/vendor/jquery/jquery.js</tspan>
+<tspan x="10" y="2138">101.  2017-04-17 08:22:37 +0000      265 bytes  examples/views/layout.jade</tspan>
+<tspan x="10" y="2154">102.  2017-04-17 08:22:37 +0000       58 bytes  index.js</tspan>
+<tspan x="10" y="2170">103.  2017-04-17 08:22:37 +0000     8168 bytes  lib/mincer.js</tspan>
+<tspan x="10" y="2186">104.  2017-04-17 08:22:37 +0000     6240 bytes  lib/mincer/asset_attributes.js</tspan>
+<tspan x="10" y="2202">105.  2017-04-17 08:22:37 +0000     7042 bytes  lib/mincer/assets/asset.js</tspan>
+<tspan x="10" y="2218">106.  2017-04-17 08:22:37 +0000     6131 bytes  lib/mincer/assets/bundled.js</tspan>
+<tspan x="10" y="2234">107.  2017-04-17 08:22:37 +0000     6098 bytes  lib/mincer/assets/processed.js</tspan>
+<tspan x="10" y="2250">108.  2017-04-17 08:22:37 +0000     1144 bytes  lib/mincer/assets/static.js</tspan>
+<tspan x="10" y="2266">109.  2017-04-17 08:22:37 +0000    13498 bytes  lib/mincer/base.js</tspan>
+<tspan x="10" y="2282">110.  2017-04-17 08:22:37 +0000     1780 bytes  lib/mincer/common.js</tspan>
+<tspan x="10" y="2298">111.  2017-04-17 08:22:37 +0000     1849 bytes  lib/mincer/common/hash.js</tspan>
+<tspan x="10" y="2314">112.  2017-04-17 08:22:37 +0000      979 bytes  lib/mincer/compressors/csso_compressor.js</tspan>
+<tspan x="10" y="2330">113.  2017-04-17 08:22:37 +0000     1790 bytes  lib/mincer/compressors/csswring_compressor.js</tspan>
+<tspan x="10" y="2346">114.  2017-04-17 08:22:37 +0000     2398 bytes  lib/mincer/compressors/uglify_compressor.js</tspan>
+<tspan x="10" y="2362">115.  2017-04-17 08:22:37 +0000    16267 bytes  lib/mincer/context.js</tspan>
+<tspan x="10" y="2378">116.  2017-04-17 08:22:37 +0000     2283 bytes  lib/mincer/engines/coffee_engine.js</tspan>
+<tspan x="10" y="2394">117.  2017-04-17 08:22:37 +0000     1388 bytes  lib/mincer/engines/ejs_engine.js</tspan>
+<tspan x="10" y="2410">118.  2017-04-17 08:22:37 +0000     1484 bytes  lib/mincer/engines/handlebars_engine.js</tspan>
+<tspan x="10" y="2426">119.  2017-04-17 08:22:37 +0000     1994 bytes  lib/mincer/engines/jade_engine.js</tspan>
+<tspan x="10" y="2442">120.  2017-04-17 08:22:37 +0000     1349 bytes  lib/mincer/engines/jst_engine.js</tspan>
+<tspan x="10" y="2458">121.  2017-04-17 08:22:37 +0000     4795 bytes  lib/mincer/engines/less_engine.js</tspan>
+<tspan x="10" y="2474">122.  2017-04-17 08:22:37 +0000     1788 bytes  lib/mincer/engines/pug_engine.js</tspan>
+<tspan x="10" y="2490">123.  2017-04-17 08:22:37 +0000     6779 bytes  lib/mincer/engines/sass_engine.js</tspan>
+<tspan x="10" y="2506">124.  2017-04-17 08:22:37 +0000     3864 bytes  lib/mincer/engines/stylus_engine.js</tspan>
+<tspan x="10" y="2522">125.  2017-04-17 08:22:37 +0000     4177 bytes  lib/mincer/environment.js</tspan>
+<tspan x="10" y="2538">126.  2017-04-17 08:22:37 +0000     1418 bytes  lib/mincer/file_store.js</tspan>
+<tspan x="10" y="2554">127.  2017-04-17 08:22:37 +0000     1518 bytes  lib/mincer/helpers/caching.js</tspan>
+<tspan x="10" y="2570">128.  2017-04-17 08:22:37 +0000     4201 bytes  lib/mincer/helpers/compressing.js</tspan>
+<tspan x="10" y="2586">129.  2017-04-17 08:22:37 +0000     2424 bytes  lib/mincer/helpers/configuring.js</tspan>
+<tspan x="10" y="2602">130.  2017-04-17 08:22:37 +0000     2741 bytes  lib/mincer/helpers/engines.js</tspan>
+<tspan x="10" y="2618">131.  2017-04-17 08:22:37 +0000     1484 bytes  lib/mincer/helpers/mime.js</tspan>
+<tspan x="10" y="2634">132.  2017-04-17 08:22:37 +0000     2372 bytes  lib/mincer/helpers/paths.js</tspan>
+<tspan x="10" y="2650">133.  2017-04-17 08:22:37 +0000     6752 bytes  lib/mincer/helpers/processing.js</tspan>
+<tspan x="10" y="2666">134.  2017-04-17 08:22:37 +0000     4406 bytes  lib/mincer/index.js</tspan>
+<tspan x="10" y="2682">135.  2017-04-17 08:22:37 +0000     3188 bytes  lib/mincer/logger.js</tspan>
+<tspan x="10" y="2698">136.  2017-04-17 08:22:37 +0000     7697 bytes  lib/mincer/manifest.js</tspan>
+<tspan x="10" y="2714">137.  2017-04-17 08:22:37 +0000     1764 bytes  lib/mincer/processor.js</tspan>
+<tspan x="10" y="2730">138.  2017-04-17 08:22:37 +0000     1894 bytes  lib/mincer/processors/autoprefixer.js</tspan>
+<tspan x="10" y="2746">139.  2017-04-17 08:22:37 +0000     1432 bytes  lib/mincer/processors/charset_normalizer.js</tspan>
+<tspan x="10" y="2762">140.  2017-04-17 08:22:37 +0000    11860 bytes  lib/mincer/processors/directive_processor.js</tspan>
+<tspan x="10" y="2778">141.  2017-04-17 08:22:37 +0000     3913 bytes  lib/mincer/processors/macro_processor.js</tspan>
+<tspan x="10" y="2794">142.  2017-04-17 08:22:37 +0000      973 bytes  lib/mincer/processors/safety_colons.js</tspan>
+<tspan x="10" y="2810">143.  2017-04-17 08:22:37 +0000    12813 bytes  lib/mincer/server.js</tspan>
+<tspan x="10" y="2826">144.  2017-04-17 08:22:37 +0000     2101 bytes  lib/mincer/template.js</tspan>
+<tspan x="10" y="2842">145.  2017-04-17 08:22:37 +0000       90 bytes  lib/mincer/version.js</tspan>
+<tspan x="10" y="2858">146.  2017-04-17 08:22:37 +0000     2900 bytes  package.json</tspan>
+<tspan x="10" y="2874">147.  2017-04-17 08:22:37 +0000     4526 bytes  test/engines_test.js</tspan>
+<tspan x="10" y="2890">148.  2017-04-17 08:22:37 +0000      463 bytes  test/environment.js</tspan>
+<tspan x="10" y="2906">149.  2017-04-17 08:22:37 +0000     1226 bytes  test/examples_test.js</tspan>
+<tspan x="10" y="2922">150.  2017-04-17 08:22:37 +0000      104 bytes  test/fixtures/ejs_engine/javascript.js.ejs</tspan>
+<tspan x="10" y="2938">151.  2017-04-17 08:22:37 +0000      126 bytes  test/fixtures/ejs_engine/stylesheet.css.ejs</tspan>
+<tspan x="10" y="2954">152.  2017-04-17 08:22:37 +0000    12586 bytes  test/fixtures/ixti.gif</tspan>
+<tspan x="10" y="2970">153.  2017-04-17 08:22:37 +0000       39 bytes  test/fixtures/jst_engine/ejs/template.jst.ejs</tspan>
+<tspan x="10" y="2986">154.  2017-04-17 08:22:37 +0000       10 bytes  test/fixtures/jst_engine/jade/included.jst.jade</tspan>
+<tspan x="10" y="3002">155.  2017-04-17 08:22:37 +0000       46 bytes  test/fixtures/jst_engine/jade/template.jst.jade</tspan>
+<tspan x="10" y="3018">156.  2017-04-17 08:22:37 +0000       10 bytes  test/fixtures/jst_engine/pug/included.jst.pug</tspan>
+<tspan x="10" y="3034">157.  2017-04-17 08:22:37 +0000       45 bytes  test/fixtures/jst_engine/pug/template.jst.pug</tspan>
+<tspan x="10" y="3050">158.  2017-04-17 08:22:37 +0000      143 bytes  test/fixtures/less_engine/stylesheet.css.less</tspan>
+<tspan x="10" y="3066">159.  2017-04-17 08:22:37 +0000       52 bytes  test/fixtures/pipeline/macros.js</tspan>
+<tspan x="10" y="3082">160.  2017-04-17 08:22:37 +0000       57 bytes  test/fixtures/pipeline/single_file.css.styl.ejs</tspan>
+<tspan x="10" y="3098">161.  2017-04-17 08:22:37 +0000       21 bytes  test/fixtures/sass_engine/_variables.css.scss.v1</tspan>
+<tspan x="10" y="3114">162.  2017-04-17 08:22:37 +0000       21 bytes  test/fixtures/sass_engine/_variables.css.scss.v2</tspan>
+<tspan x="10" y="3130">163.  2017-04-17 08:22:37 +0000       67 bytes  test/fixtures/sass_engine/grid.css.scss</tspan>
+<tspan x="10" y="3146">164.  2017-04-17 08:22:37 +0000      111 bytes  test/fixtures/sass_engine/helpers.css.scss</tspan>
+<tspan x="10" y="3162">165.  2017-04-17 08:22:37 +0000       64 bytes  test/fixtures/sass_engine/stylesheet.css.scss</tspan>
+<tspan x="10" y="3178">166.  2017-04-17 08:22:37 +0000       79 bytes  test/fixtures/sass_engine/with_macros.css.scss</tspan>
+<tspan x="10" y="3194">167.  2017-04-17 08:22:37 +0000      785 bytes  test/logger_test.js</tspan>
+<tspan x="10" y="3210">168.  2017-04-17 08:22:37 +0000       23 bytes  test/mocha.opts</tspan>
+<tspan x="10" y="3226">169.  2017-04-17 08:22:37 +0000      629 bytes  test/pipeline_test.js</tspan>
 </text>
 </svg>
