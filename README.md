@@ -1,4 +1,7 @@
-# test coverage for  [mincer (v1.5.1)](https://github.com/nodeca/mincer#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-mincer.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-mincer) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-mincer.svg)](https://travis-ci.org/npmtest/node-npmtest-mincer)
+# npmtest-mincer
+
+#### basic test coverage for  [mincer (v1.5.1)](https://github.com/nodeca/mincer#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-mincer.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-mincer) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-mincer.svg)](https://travis-ci.org/npmtest/node-npmtest-mincer)
+
 #### Web assets processor. Native JavaScript port of Sprockets.
 
 [![NPM](https://nodei.co/npm/mincer.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/mincer)
